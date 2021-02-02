@@ -1,0 +1,6 @@
+one/digitalinnovation/abstracts/FormaGeometrica.java
+ one.digitalinnovation.abstracts.FormaGeometrica
+one/digitalinnovation/abstracts/Programa.java
+ one.digitalinnovation.abstracts.Programa
+one/digitalinnovation/abstracts/Quadrado.java
+ one.digitalinnovation.abstracts.Quadrado

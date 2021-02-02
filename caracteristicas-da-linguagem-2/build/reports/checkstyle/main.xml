@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.40">
+<file name="C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Curso-Basico-Java\caracteristicas-da-linguagem-2\src\main\java\fors\For.java">
+<error line="11" column="9" severity="warning" message="A estrutura &apos;for&apos; deve utilizar &apos;{}&apos;s." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+</file>
+<file name="C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Curso-Basico-Java\caracteristicas-da-linguagem-2\src\main\java\ifs\If.java">
+<error line="14" column="9" severity="warning" message="A estrutura &apos;if&apos; deve utilizar &apos;{}&apos;s." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+</file>
+<file name="C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Curso-Basico-Java\caracteristicas-da-linguagem-2\src\main\java\operadores\Igualdade.java">
+</file>
+<file name="C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Curso-Basico-Java\caracteristicas-da-linguagem-2\src\main\java\operadores\Incremento.java">
+</file>
+<file name="C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Curso-Basico-Java\caracteristicas-da-linguagem-2\src\main\java\operadores\Logicos.java">
+</file>
+<file name="C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Curso-Basico-Java\caracteristicas-da-linguagem-2\src\main\java\operadores\Matematicos.java">
+</file>
+<file name="C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Curso-Basico-Java\caracteristicas-da-linguagem-2\src\main\java\operadores\Relacionais.java">
+</file>
+<file name="C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Curso-Basico-Java\caracteristicas-da-linguagem-2\src\main\java\strings\StringBuilder.java">
+</file>
+<file name="C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Curso-Basico-Java\caracteristicas-da-linguagem-2\src\main\java\strings\StringFormat.java">
+</file>
+<file name="C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Curso-Basico-Java\caracteristicas-da-linguagem-2\src\main\java\strings\Strings.java">
+</file>
+<file name="C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Curso-Basico-Java\caracteristicas-da-linguagem-2\src\main\java\whiles\While.java">
+</file>
+</checkstyle>
